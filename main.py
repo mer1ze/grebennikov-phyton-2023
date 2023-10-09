@@ -16,5 +16,5 @@ for x in x_data:
 
 plt.plot(x_data, y_data)
 plt.axis('equal')
-plt.grid = True
+plt.grid(True)
 plt.show()
